@@ -21,3 +21,5 @@ _this is also italic_
     * Item1
     * Item2
     * Item A
+# Links:
+[Google("http://google.com")]
