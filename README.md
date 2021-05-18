@@ -22,4 +22,4 @@ _this is also italic_
     * Item2
     * Item A
 # Links:
-[Google("http://google.com")]
+[Google](www.google.com)
